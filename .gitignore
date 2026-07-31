@@ -16,3 +16,6 @@ venv/
 
 # Remember plugin session state/logs
 .remember/
+.DS_Store
+.RData
+.Rhistory
