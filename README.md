@@ -102,6 +102,10 @@ Fitted regression models are saved to `data/processed/models/` as `.rds` files a
 - **R** — statistical analysis and visualization (`ggplot2`, base R `lm()`/`cor.test()`)
 - **Jupyter** — notebook environment for both
 
+AI Usage
+
+Claude (Claude Code and Claude.ai) was used throughout this project for debugging R/Python code, explaining statistical concepts, and refactoring notebook cells for clarity. All research questions, methodology decisions (e.g., choice of metrics, bivariate vs. multivariate design, handling of missing data), and interpretation of results were made by the author.
+
 ## License
 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
